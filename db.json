@@ -1,0 +1,37 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Character One",
+      "level": 10,
+      "vocation": "Mage",
+      "sex": "Male",
+      "worldName": "World One",
+      "auctionStartDate": "2023-04-01",
+      "auctionEndDate": "2023-04-10",
+      "auctionCurrentBid": 1000
+    },
+    {
+      "id": 2,
+      "name": "Character Two",
+      "level": 20,
+      "vocation": "Warrior",
+      "sex": "Female",
+      "worldName": "World Two",
+      "auctionStartDate": "2023-04-05",
+      "auctionEndDate": "2023-04-15",
+      "auctionCurrentBid": 1500
+    },
+    {
+      "id": 3,
+      "name": "Character Three",
+      "level": 15,
+      "vocation": "Rogue",
+      "sex": "Male",
+      "worldName": "World Three",
+      "auctionStartDate": "2023-04-10",
+      "auctionEndDate": "2023-04-20",
+      "auctionCurrentBid": 1200
+    }
+  ]
+}
